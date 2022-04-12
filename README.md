@@ -2,7 +2,7 @@
 
 AUTOMNE
 
-natation_ vanessa
+randonnée_ vanessa
 
 
 
