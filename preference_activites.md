@@ -6,4 +6,4 @@ Vanessa: Randonnée
 
 HUgo: Cueillir des pommes
 
-
+Olivier: Vélo
