@@ -4,5 +4,5 @@
 
 1- Genesis | André Guay
 
-2- GunS N' Roses
+2- GunS N' Roses | Seb
 
