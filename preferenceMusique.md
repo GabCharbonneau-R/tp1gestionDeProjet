@@ -1,6 +1,3 @@
-# Lancement du projet nommé Genesis:
+musique actuelle
 
-# Les groupes qui ont marqué notre adolescence:
-
-Genesis | André Guay
-
+lindsey stirling| jbd
