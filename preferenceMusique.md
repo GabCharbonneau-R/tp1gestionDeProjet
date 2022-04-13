@@ -1,6 +1,3 @@
-# Lancement du projet nommé Genesis:
+Meilleur band 90s'
 
-# Les groupes qui ont marqué notre adolescence:
-
-Genesis | André Guay
-
+Smashing Pumpkins | Seb
