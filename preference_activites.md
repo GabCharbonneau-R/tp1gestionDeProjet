@@ -14,3 +14,5 @@ Olivier: Vélo
 Hugo: Snowboard
 
 Olivier: Ski de fond
+
+Vanessa: Hockey
