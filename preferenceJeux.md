@@ -1,3 +1,9 @@
+RPG
+
+RPG/Steven
+- Elden ring - Steven Blondin
+- Skyrim : Gab
+- Fallout 4 : Jean-Marc Boisvert
 
 #RTS
 
@@ -10,4 +16,3 @@ FPS
 - Call Of Duty : Gab
 - Overwatch : Jean-Marc Boisvert
 - Escape from tarkov : Steven
-
