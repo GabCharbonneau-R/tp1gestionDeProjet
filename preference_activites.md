@@ -4,5 +4,6 @@
 
 Vanessa: Randonnée
 
+HUgo: Cueillir des pommes
 
 
