@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 Meilleur band 90s':
 
-Smashing Pumpkins | Seb
 
+Smashing Pumpkins | Seb
 
 The Cranberries | Joëlle
 
