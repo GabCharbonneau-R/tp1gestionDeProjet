@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Meilleur band 90s':
 
 Smashing Pumpkins | Seb
@@ -7,7 +8,7 @@ The Cranberries | Joëlle
 
 Massive Attack | DJ-DR4Y
 
-==================
+
 
 Meilleur groupe à l'adolescence:
  
@@ -18,4 +19,9 @@ Meilleur groupe à l'adolescence:
 
 3- The Cranberries | Joëlle
 
-====================
+
+
+musique actuelle
+
+lindsey stirling| jbd
+
