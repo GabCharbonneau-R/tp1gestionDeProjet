@@ -1,9 +1,15 @@
-# Lancement du projet nommé Genesis:
+Meilleur band 90s'
 
-# Les groupes qui ont marqué notre adolescence:
+Smashing Pumpkins | Seb
 
+<<<<<<< HEAD
 1- Genesis | André Guay
 
 2- GunS N' Roses | Seb
 
 3- The Cranberries | Joëlle
+=======
+The Cranberries | Joëlle
+
+Massive Attack | DJ-DR4Y
+>>>>>>> meilleur-band-90s
