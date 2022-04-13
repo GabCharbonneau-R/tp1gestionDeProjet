@@ -1,4 +1,4 @@
-Meilleur band 90s'
+Meilleur band 90s':
 
 Smashing Pumpkins | Seb
 
@@ -7,7 +7,9 @@ The Cranberries | Joëlle
 
 Massive Attack | DJ-DR4Y
 
-meilleur-band-ado
+==================
+
+Meilleur groupe à l'adolescence:
  
 
 1- Genesis | André Guay
@@ -15,4 +17,5 @@ meilleur-band-ado
 2- GunS N' Roses | Seb
 
 3- The Cranberries | Joëlle
-=======
+
+====================
