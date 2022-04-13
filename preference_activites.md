@@ -12,3 +12,5 @@ Olivier: Vélo
 ## Hiver
 
 Hugo: Snowboard
+
+Olivier: Ski de fond
