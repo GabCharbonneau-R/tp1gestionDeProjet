@@ -1,4 +1,5 @@
 RPG
 
-Elden ring
-Fallout 4
+- Elden ring : Steven
+- Fallout 4 : Jean-Marc-Boivert
+- Skyrim : Gab
