@@ -12,3 +12,4 @@ Olivier: Vélo
 
 Olivier: Roller blade
 
+Vanessa: Natation
