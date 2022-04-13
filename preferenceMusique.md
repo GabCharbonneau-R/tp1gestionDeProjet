@@ -2,5 +2,5 @@
 
 # Les groupes qui ont marqué notre adolescence:
 
-Genesis | André Guay
+1- Genesis | André Guay
 
