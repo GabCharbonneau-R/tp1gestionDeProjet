@@ -1,4 +1,2 @@
-# Les repas 
-
 #Desserts pref/Mickael
-    - pouding chômeur
+    - pouding chômeur (Mickael)
